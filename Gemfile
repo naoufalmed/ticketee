@@ -47,3 +47,5 @@ group :test do
   gem 'capybara'
   gem 'database_cleaner'
 end
+
+gem "cucumber-rails-training-wheels", :group => :test
